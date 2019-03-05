@@ -1,4 +1,4 @@
-# Shell-Don-
+# Shell(Don)
 
 This is Shell(don). He was picked up from a NASA probe coming from Europa. To communicate with him, tap him and move him around and he’ll respond. 
 
